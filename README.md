@@ -108,7 +108,7 @@ norm_diff =
 norm_residual =
    8.8818e-16
 ```
-Explanation of Built-in MATLAB Functions Used
+
 ### Explanation of Built-in MATLAB Functions Used
 
 | Function | Description & Purpose in Script |
